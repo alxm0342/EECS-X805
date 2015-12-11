@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetAndPut", "GetAndPut\GetAndPut.vcxproj", "{9A6DF13A-03A7-42B2-B8A2-641566E68BA0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortAList", "SortAList\SortAList.vcxproj", "{F0DC2090-5786-4522-9806-231E2531528F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProfessorScheduler", "ProfessorScheduler\ProfessorScheduler.vcxproj", "{D0FDD1D5-853C-4650-9B21-48365019A1AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdventureTime", "AdventureTime\AdventureTime.vcxproj", "{86D1F78C-96C2-460E-B3BD-449F1B0BE0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6DF13A-03A7-42B2-B8A2-641566E68BA0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A6DF13A-03A7-42B2-B8A2-641566E68BA0}.Debug|Win32.Build.0 = Debug|Win32
+		{9A6DF13A-03A7-42B2-B8A2-641566E68BA0}.Release|Win32.ActiveCfg = Release|Win32
+		{9A6DF13A-03A7-42B2-B8A2-641566E68BA0}.Release|Win32.Build.0 = Release|Win32
+		{F0DC2090-5786-4522-9806-231E2531528F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0DC2090-5786-4522-9806-231E2531528F}.Debug|Win32.Build.0 = Debug|Win32
+		{F0DC2090-5786-4522-9806-231E2531528F}.Release|Win32.ActiveCfg = Release|Win32
+		{F0DC2090-5786-4522-9806-231E2531528F}.Release|Win32.Build.0 = Release|Win32
+		{D0FDD1D5-853C-4650-9B21-48365019A1AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0FDD1D5-853C-4650-9B21-48365019A1AC}.Debug|Win32.Build.0 = Debug|Win32
+		{D0FDD1D5-853C-4650-9B21-48365019A1AC}.Release|Win32.ActiveCfg = Release|Win32
+		{D0FDD1D5-853C-4650-9B21-48365019A1AC}.Release|Win32.Build.0 = Release|Win32
+		{86D1F78C-96C2-460E-B3BD-449F1B0BE0DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86D1F78C-96C2-460E-B3BD-449F1B0BE0DB}.Debug|Win32.Build.0 = Debug|Win32
+		{86D1F78C-96C2-460E-B3BD-449F1B0BE0DB}.Release|Win32.ActiveCfg = Release|Win32
+		{86D1F78C-96C2-460E-B3BD-449F1B0BE0DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
